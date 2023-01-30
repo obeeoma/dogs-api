@@ -6,7 +6,7 @@
     "description": "Tall and slender with a long, narrow, refined head, silky topknot and powerful jaws.It has silky coat and curled tail",
     "size": "Medium",
     "lifespan": "12 -14 years",
-    "dogimage": "public/images/Afghan Hound.png"
+    "dogimage": "/images/Afghan Hound.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "description": "Smooth, muscular and athletic dog. It has small eyes, straight ears, a wrinkled forehead, and long legs.",
     "size": "Small",
     "lifespan": "12 -16 years",
-    "dogimage": "public/images/Basenji.png"
+    "dogimage": "/images/Basenji.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "description": "Small sized dog with long and silky coat. It has beautiful eyes and long fluffy ears.",
     "size": "Small",
     "lifespan": "9 -14 years",
-    "dogimage": "public/images/Cavalier King Charles Spaniel.png"
+    "dogimage": "/images/Cavalier King Charles Spaniel.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "description": "Large, strong, muscular dog. It has soft ears, medium size eyes and short coat",
     "size": "Medium",
     "lifespan": "10 -13 years",
-    "dogimage": "public/images/Dalmatian.png"
+    "dogimage": "/images/Dalmatian.png"
   },
   {
     "id": 5,
@@ -42,6 +42,6 @@
     "description": "They are smart, courageous, and intelligent dog breed. Now these days, these dogs are used for the guarding purpose and as a service dogs.",
     "size": "Large",
     "lifespan": "9 -13 years",
-    "dogimage": "public/images/German Shepherd.png"
+    "dogimage": "/images/German Shepherd.png"
   }
 ]
