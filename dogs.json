@@ -6,7 +6,7 @@
     "description": "Tall and slender with a long, narrow, refined head, silky topknot and powerful jaws.It has silky coat and curled tail",
     "size": "Medium",
     "lifespan": "12 -14 years",
-    "dogimage": "public/images/Afghan Hound.png"
+    "dogimage": "https://obeeoma.github.io/dogs-api/public/images/Afghan Hound.png"
   },
   {
     "id": 2,
