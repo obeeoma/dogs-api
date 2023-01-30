@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Afghan Hound",
+    "origin": "Afghanistan",
+    "description": "Tall and slender with a long, narrow, refined head, silky topknot and powerful jaws.It has silky coat and curled tail",
+    "size": "Medium",
+    "lifespan": "12 -14 years",
+    "dogimage": "./images/Afghan Hound.png"
+  },
+  {
+    "id": 2,
+    "name": "Basenji",
+    "origin": "Congo",
+    "description": "Smooth, muscular and athletic dog. It has small eyes, straight ears, a wrinkled forehead, and long legs.",
+    "size": "Small",
+    "lifespan": "12 -16 years",
+    "dogimage": "./images/Basenji.png"
+  },
+  {
+    "id": 3,
+    "name": "Cavalier King Charles Spaniel",
+    "origin": "United Kingdom",
+    "description": "Small sized dog with long and silky coat. It has beautiful eyes and long fluffy ears.",
+    "size": "Small",
+    "lifespan": "9 -14 years",
+    "dogimage": "./images/Cavalier King Charles Spaniel.png"
+  },
+  {
+    "id": 4,
+    "name": "Dalmatian",
+    "origin": "Greece",
+    "description": "Large, strong, muscular dog. It has soft ears, medium size eyes and short coat",
+    "size": "Medium",
+    "lifespan": "10 -13 years",
+    "dogimage": "./images/Dalmatian.png"
+  },
+  {
+    "id": 5,
+    "name": "German Shepherd",
+    "origin": "Germany",
+    "description": "They are smart, courageous, and intelligent dog breed. Now these days, these dogs are used for the guarding purpose and as a service dogs.",
+    "size": "Large",
+    "lifespan": "9 -13 years",
+    "dogimage": "./images/German Shepherd.png"
+  }
+]
